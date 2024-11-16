@@ -1,2 +1,5 @@
 # DESIGN-OF-MEDICAL-EXAMINATION-SYSTEMS-APP
+In the era of Industry 4.0, where technology develops rapidly and is more and more convenient for people, it is essential to apply information technology to a variety of industries and fields. And it is from the application of technology, especially the convenience of interacting from mobile devices, we have developed an application for scheduling that integrates many hospitals.
+You can schedule a hospital visit at the desired time, follow the address of the hospital near you or get online health advice from qualified doctors or electronic medical record management. Wherever you are doing, where you are, you can schedule an examination with specific time and place. Not only that, you can also take the initiative, cancel appointments if there is unexpected busy work and easily reschedule. It all depends on your time budget.
 Examination results will be continuously updated in the medical records. Information is stored securely and confidentially. So you can be completely assured with your personal information, medical records.
+
