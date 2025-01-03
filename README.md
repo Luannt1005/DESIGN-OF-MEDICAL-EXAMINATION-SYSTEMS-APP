@@ -1,15 +1,58 @@
 Link Figma : https://www.figma.com/design/CQgJqFEddTouFSxjokXika/medic-n%C3%A8-m%E1%BA%A5y-cu?node-id=0-1&node-type=canvas&t=cUo2dnMhWdieZyRd-0
 
-The WeMed is a sophisticated software solution designed for seamless operation across various devices such as mobile phones, tablets, and other platforms, catering to both Android and iOS operating systems. Envisioned with the primary goal of revolutionizing the medical examination and treatment process, this application serves as a modern and efficient tool for individuals to schedule appointments from the comfort of their homes, eliminating the need to endure long queues or wait times.
-With a mission to support hospitals and address the evolving needs of patients, the application empowers users to take control of their healthcare journey. Its user-friendly interface facilitates online appointment bookings anytime, anywhere, providing a hassle-free experience. Noteworthy features include the ability to create and manage patient records directly within the app, online payment for examination costs, real-time access to follow-up schedules, and prompt notifications for upcoming medical examinations.
-Patients benefit from the convenience of selecting and consulting with highly qualified doctors on a one-on-one basis. The application intelligently streamlines the process of creating and managing medical records, offering a seamless experience for individuals and their families. The efficient appointment system allows users to obtain order numbers online without the need to wait in line, ensuring a swift and organized experience.
-Beyond individual healthcare management, the application also facilitates the effective management of medical records for entire families. This includes the smart and centralized organization of health information, ultimately saving time during medical examinations and ensuring timely follow-up notifications.
-The application embraces various payment methods to enhance user convenience while prioritizing the safety and confidentiality of patient information. By leveraging information technology, the online registration and payment software enables users to download the application for free, providing a comprehensive suite of features, including creating patient accounts, managing records, and facilitating online payments.
-Furthermore, the application serves as a proactive tool for medical professionals by automatically reminding doctors and medical staff of scheduled appointments. This not only improves overall work efficiency but also ensures that no registered patients are overlooked, thereby enhancing the level of care and service quality.
-In addition to supporting appointment scheduling, the software facilitates comprehensive scheduling for medical facilities. This includes capturing crucial patient information, visit timings, appointment purposes, assigned doctors, and the specific services requested by the patients. The application, with its holistic approach to healthcare management, marks a significant stride towards a more patient-centric and technologically advanced medical landscape.
+# README: WeMed - A Mobile Application for Medical Appointment Booking
 
-Waiting in line for many hours makes the patient feel depressed and tired. Patients have to go early in order to get their first exam number, sometimes they can't even keep track of the clinic schedule or the doctor they want to examine. 
-When sick, the patient's immune system becomes weaker, and the risk of cross-infection to other diseases is very high. In crowded public places with many potential pathogens, people need to limit contact to protect themselves as well as avoid spreading diseases to others, especially in the present time, when the Corona epidemic is happening.
-In order to solve the increasing need for medical examination and treatment, while helping patients proactively choose medical examination time without spending much time waiting, can help shorten the time to register for medical examination. Therefore, we provide the application for medical examination and treatment through a mobile phone application with the connection of many hospitals in the city. Patients can choose which hospital they want to see according to their address or medical condition.
+## 1. Introduction
+WeMed is a cutting-edge mobile application that simplifies the healthcare experience by enabling users to schedule medical appointments from the comfort of their homes. It streamlines processes like profile management, booking, payment, and scheduling.
+
+---
+
+## 2. Project Overview
+
+### Detailed Objectives
+- Reduce patient wait times and cross-infection risks.
+- Enable users to book appointments with multiple hospitals and doctors conveniently.
+
+---
+
+## 3. Features
+1. **Login & Sign-up**:
+   - OTP-based registration.
+   - Secure login with fingerprints or passwords.
+
+2. **Manage Patient Profiles**:
+   - View, edit, and delete profiles.
+   - Add health insurance and identification details.
+
+3. **Booking**:
+   - Search for hospitals based on location or specialty.
+   - Select services (standard or VIP).
+
+4. **Payments**:
+   - Options: e-wallet or credit card.
+   - Secure transactions with OTP and biometrics.
+
+5. **Refunds**:
+   - Process refunds via bank cards or e-wallets for canceled or expired bookings.
+
+6. **View Booking Schedule**:
+   - Check upcoming and past appointments.
+   - Initiate cancellations or refunds.
+
+---
+
+## 4. Technologies Used
+- **Frontend**: React Native.
+- **Backend**: Node.js, Express.js.
+- **Database**: MongoDB.
+
+---
+
+## 5. Deployment
+1. Clone the repository.
+2. Set up the database and backend environment.
+3. Start the application using `npm start`.
+
+---
 
 
